@@ -1,0 +1,71 @@
+https://viji:doycm2tkycmnmlu463jxilqn7526fmklpc6n5xbfnq2bskzdkwkq@zerofence.visualstudio.com/
+
+
+
+1.
+zerofence.visualstudio.com/veenus-nest/_git/veenus-nest-portal
+
+https://viji:doycm2tkycmnmlu463jxilqn7526fmklpc6n5xbfnq2bskzdkwkq@zerofence.visualstudio.com/veenus-nest/_git/veenus-nest-portal
+Branch:dev
+
+
+2.
+zerofence.visualstudio.com/getme/_git/getme-portal
+
+https://viji:doycm2tkycmnmlu463jxilqn7526fmklpc6n5xbfnq2bskzdkwkq@zerofence.visualstudio.com/getme/_git/getme-portal
+Branch : v5
+
+
+3.
+zerofence.visualstudio.com/getme/_git/getme-webapp
+
+https://viji:doycm2tkycmnmlu463jxilqn7526fmklpc6n5xbfnq2bskzdkwkq@zerofence.visualstudio.com/getme/_git/getme-webapp
+Branch: chennai-jewels
+
+
+4.
+zerofence.visualstudio.com/getme/_git/honeybeecraftz-webapp
+
+https://viji:doycm2tkycmnmlu463jxilqn7526fmklpc6n5xbfnq2bskzdkwkq@zerofence.visualstudio.com/getme/_git/honeybeecraftz-webapp
+Branch: dev
+
+
+5.
+https://zerofence.visualstudio.com/getme/_git/parimalamagro-webappsudo 
+
+https://viji:doycm2tkycmnmlu463jxilqn7526fmklpc6n5xbfnq2bskzdkwkq@zerofence.visualstudio.com/getme/_git/parimalamagro-webapp
+Branch: dev
+
+
+6.
+https://zerofence.visualstudio.com/getme/_git/shadowgames-webapp
+
+https://viji:doycm2tkycmnmlu463jxilqn7526fmklpc6n5xbfnq2bskzdkwkq@zerofence.visualstudio.com/getme/_git/shadowgames-webapp
+Branch: dev
+
+
+
+STEPS:
+
+git clone <link>
+
+cd <folder name>
+
+git checkout <branch name>dev
+
+yarn   (only  package.json present)
+
+
+
+Tips:
+
+1.always start your work with ----   git pull origin
+2.After that check .env.local  file present or not
+
+
+To Push:
+1.  git add .
+2.  git commit -m "First"
+3.  git pull origin
+4.  git push origin
+
